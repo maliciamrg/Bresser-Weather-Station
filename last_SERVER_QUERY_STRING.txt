@@ -1,0 +1,1 @@
+ID=IANTON13&PASSWORD=nY2hD3eO&action=updateraww&realtime=1&rtfreq=5&dateutc=now&baromin=29.91&tempf=75.9&dewptf=60.4&humidity=59&windspeedmph=3.5&windgustmph=4.0&winddir=45&rainin=0.0&dailyrainin=0.0&indoortempf=81.1&indoorhumidity=53

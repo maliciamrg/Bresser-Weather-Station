@@ -11,7 +11,7 @@ use PhpMqtt\Client\Exceptions\UnexpectedAcknowledgementException;
 use PhpMqtt\Client\ConnectionSettings;
 use PhpMqtt\Client\MqttClient;
 
-const MQTT_HOST = '192.212.30.105';
+const MQTT_HOST = '192.212.10.105';
 const MQTT_PORT = 1883;
 const MQTT_CLIENT_ID = 'weather-data-publisher';
 const MQTT_USER = 'mqttuser';
